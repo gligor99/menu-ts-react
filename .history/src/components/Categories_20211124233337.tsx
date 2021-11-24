@@ -1,0 +1,7 @@
+const Categories: React.FC<categories> = (categories: string[]) => {
+  return (
+    <div><h1>Idemo</h1></div>
+  );
+};
+
+export default Categories;
